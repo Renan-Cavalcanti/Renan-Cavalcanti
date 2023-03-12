@@ -14,6 +14,4 @@
  
 <div>
   <a href = "mailto:renan.rocha.cavalcanti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake Animation](https://github.com/Renan-Cavalcanti/Renan-Cavalcanti/blob/output/github-contribution-grid-snake.svg)
-
 </div>
